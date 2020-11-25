@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#0b0b0b</color>
+    <color name="colorPrimaryDark">#020202</color>
+    <color name="colorAccent">#0b0b0b</color>
+
+    <color name="colorTrans">#004b4d4d</color>
+
+    <!--floating action button color-->
+    <color name="colorFabNormal">#030303</color>
+    <color name="colorFabPressed">#3c3d3a</color>
+    <color name="colorFabRipple">#1b1b1b</color>
+
+    <!--mini floating action button color-->
+    <color name="colorFabMiniNormal">#030303</color>
+    <color name="colorFabMiniPressed">#3c3d3a</color>
+    <color name="colorFabMiniRipple">#1b1b1b</color>
+
+    <!--tab color-->
+    <color name="tabIndicatorColor">#57baba</color>
+    <color name="tabSelectedTextColor">#FFFFFF</color>
+    <color name="tabTextColor">#80FFFFFF</color>
+
+    <!--swipe down refresh animation color-->
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="btn_alert">#437f43</color>
+    <color name="blue">#000099</color>
+    <color name="red">#ff0015</color>
+    <color name="sky">#f104a49f</color>
+    <color name="bluee">#8615ba</color>
+
+    <!--app background color-->
+    <color name="background">#212121</color>
+    <color name="slecter">#595858</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

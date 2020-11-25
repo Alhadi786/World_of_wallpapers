@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31635459526",
+    "firebase_url": "https://world-of-wallpapers-a7ab9.firebaseio.com",
+    "project_id": "world-of-wallpapers-a7ab9",
+    "storage_bucket": "world-of-wallpapers-a7ab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31635459526:android:01189962bc15d3904736c7",
+        "android_client_info": {
+          "package_name": "com.wasidnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31635459526-em17ub2iahvj2hi98ru32p9nr8kl2mbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPPSBo9KXPynh8k2LiPyKcE-Co6BRql4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31635459526-em17ub2iahvj2hi98ru32p9nr8kl2mbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

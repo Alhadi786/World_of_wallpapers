@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_recent"
+            android:icon="@drawable/wallpaper"
+            android:visible="true"
+            android:checked="true"
+            android:title="@string/drawer_recent" />
+
+        <item
+            android:id="@+id/drawer_category"
+            android:icon="@drawable/ic_drawer_category"
+            android:title="@string/drawer_category"
+            android:visible="false"/>
+
+        <item
+            android:id="@+id/drawer_favorite"
+            android:visible="true"
+            android:icon="@drawable/ic_drawer_favorite"
+            android:title="@string/drawer_favorite" />
+
+        <item
+            android:id="@+id/add_free"
+            android:visible="true"
+            android:icon="@drawable/ic_check"
+            android:title="Try 10 Minutes Ad Free" />
+
+        <item
+            android:id="@+id/subscribe"
+            android:visible="false"
+            android:icon="@drawable/adsfree"
+            android:title="Ads Free Version"
+            />
+
+        <item
+            android:id="@+id/settings"
+            android:visible="true"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+    </group>
+
+
+
+    <group android:visible="true"
+                android:enabled="true"
+                android:id="@+id/menu_bottom"
+                android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/drawer_rate"
+                    android:icon="@drawable/ic_drawer_rate"
+                    android:visible="true"
+                    android:title="@string/drawer_rate" />
+
+                <item
+                    android:id="@+id/drawer_more"
+                    android:icon="@drawable/ic_drawer_more"
+                    android:visible="false"
+                    android:title="@string/drawer_more" />
+
+                <item
+                    android:id="@+id/drawer_share"
+                    android:icon="@drawable/ic_drawer_share"
+                    android:visible="true"
+                    android:title="@string/drawer_share" />
+
+                <item
+                    android:id="@+id/drawer_about"
+                    android:icon="@drawable/ic_drawer_about"
+                    android:visible="false"
+                    android:title="@string/drawer_about" />
+
+            </group>
+      <!--  </menu>
+    </item>-->
+
+</menu>

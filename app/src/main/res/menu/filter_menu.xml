@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/today"
+        android:title="Today's Hit" />
+    <item
+        android:id="@+id/weekly"
+        android:title="Weekly Hit" />
+    <item
+        android:id="@+id/monthly"
+        android:title="Monthly Hit" />
+    <item
+        android:id="@+id/yearly"
+        android:title="Yearly Hit" />
+    <item
+        android:id="@+id/asc"
+        android:title="Sort By Ascending" />
+    <item
+        android:id="@+id/desc"
+        android:title="Sort By Decending" />
+
+    <item
+        android:id="@+id/download"
+        android:title="Most Downloaded"
+        android:icon="@drawable/ic_reload"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/mostviewed"
+        android:title="Most Viewed"
+        android:icon="@drawable/ic_reload"
+        android:visible="false"
+        />
+    <item
+        android:id="@+id/favrite"
+        android:title="Most Favorited"
+        android:icon="@drawable/ic_reload"
+        android:visible="false"
+        />
+</menu>

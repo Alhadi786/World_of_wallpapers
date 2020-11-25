@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!--app name-->
+    <string name="app_name">World of Wallpapers</string>
+
+    <!--tab title-->
+    <string name="tab_recent">Latest Wallpapers</string>
+    <string name="tab_category">Category</string>
+    <string name="tab_trending">Trending Now !</string>
+    <string name="tab_popular">Most Popular</string>
+    <string name="tab_favorite">Your Favourite</string>
+
+    <string name="subscription_key">MIIBIjANBgkqhkiG90BAQEFAAOCAQ8AMIIBCgKCAQEAmBxvScYV8+Y273ZQkJXvLlwBrMBrH0rtdKEh/qSFJ6Okkm7pleAJgQ12X5u0VdgAU8zFetRkpBHmM1Eb0KWkLpDvl/5JGvMfcr+1nHu9wR5Jd67hPRLwtz4UP0l0Wg1s/BEFNlGMDEPUPruv+Rq3T8xtol+AvVtLRL2shU01bYKkOMfJTbZHB1Lwdz4S0IbjiQe2008odU33T0ikvxyFCWp5Os6q1Yx0VjtAdarRGFQh6Tb2/cWjCtwCNkTyFWjnYivk0sunHOjKyucoOAtGQsv4rtUHOzsz93sTsVt+kLilOip87PNPb/c9dEGOIknxxTNtsR0VheEX3ip</string>
+
+    <string name="sub_about_app_version">If you have any kind of isssue regarding app or any wallpaper, Please contact us via mail. We will take corrective action if we find any appropriate problem !</string>
+    <string name="sub_about_app_email">your@gmail.com</string>
+    <string name="sub_about_app_copyright">Copyright &#169; 2019 Wallpapers Studios \n All rights reserved</string>
+    <string name="sub_about_app_rate">Give your rate and feedback</string>
+    <string name="sub_about_app_more">More apps from developer</string>
+    <string name="sub_about_app_privacy_policy">Privacy Policy</string>
+
+    <string name="loading">Loading...</string>
+    <string name="startapp_id">20</string>
+
+    <!--your google play url-->
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=YOUR+PLAY+URL</string>
+    <string name="privacy_policy_url">https://www.your.com/privacyurl</string>
+
+
+    <!--admob ads id-->
+    <string name="admob_app_id">ca-app-pub-9165362605707143~1844293230</string>
+    <string name="admob_banner_unit_id">ca-app-pub-9165362605707143/7643414821</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-9165362605707143/2554739677</string>
+
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Latest Wallpaper</string>
+    <string name="drawer_category">Category</string>
+    <string name="drawer_favorite">Your Favorite</string>
+    <string name="drawer_rate">Please Rate Us</string>
+    <string name="drawer_more">More Apps</string>
+    <string name="drawer_share">Share</string>
+    <string name="drawer_about">About Us</string>
+    <string name="drawer_sub_row">Other</string>
+
+    <!--network message-->
+    <string name="network_error">Refresh and Watch Latest Images !</string>
+    <string name="network_first_load">First time loading from Internet!</string>
+    <string name="downloading">Downloading Image&#8230;</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <!--menu name-->
+    <string name="menu_share">Share</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_fav">Favorite</string>
+    <string name="menu_set_as_wallpaper">Set as Wallpaper</string>
+    <string name="no_favorite_found">What is your favorite&#8230; ?</string>
+
+    <!--app about information-->
+    <string name="about_app_name">Application Name</string>
+    <string name="about_app_version">Build Version</string>
+    <string name="about_app_email">Email</string>
+    <string name="about_app_copyright">Copyright</string>
+    <string name="about_app_rate">Rate</string>
+    <string name="about_app_more">More</string>
+    <string name="about_app_privacy_policy">Privacy Policy</string>
+
+    <!--firebase analytics-->
+    <string name="analytics_item_id_2">wallpaper_menu</string>
+    <string name="analytics_item_name_2">Wallpaper Menu</string>
+
+    <!--others-->
+    <string name="share_text">Here my favorite wallpaper, check this out!</string>
+    <string name="refresh_alert">Please enable your internet connection to load new images</string>
+    <string name="image_zoom">Zoom</string>
+    <string name="saved_folder_name">Material Wallpaper</string>
+    <string name="saved_successfully">Image Saved Successfully</string>
+    <string name="wallpaper_set">Wallpaper Set</string>
+    <string name="search">Search</string>
+    <string name="desc">desc</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!--permission-->
+    <string name="permisson_title">Permission Required!</string>
+    <string name="permisson_message">this app required to access storage!</string>
+    <string name="dialog_close_msg">Are you sure you want to quit?</string>
+    <string name="dialog_option_yes">Yes</string>
+    <string name="dialog_option_rate_us">Rate Us</string>
+    <string name="dialog_option_more">More Apps</string>
+    <string name="rate_message">Get ad Free Experience by watching a Video Ad. You\'ll get 10 mints of Ad Free Version of App for every Video you watch! \n\n
+     Eg.\n
+        1 Video = 10 Minutes \n
+        2 Videos = 20 Minutes \n
+        3 Videos = 30 Minutes \n
+        . \n
+        . \n
+        and so on \n\n
+        Enjoy!
+    </string>
+    <string name="notification">Are you sure you want to disable
+        All Notification? You\'ll not recieve
+        any notification for Most Popular World of Wallpapers App.\n</string>
+
+    <string name="addfree">Are you sure you want to disable
+        All Notification? You\'ll not recieve
+        any notification for Most Popular HD Wallpapers App.\n</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
